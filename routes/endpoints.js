@@ -307,4 +307,6 @@ router.get('/pnt21', async (req, res) => {
     res.status(500).json({ error: 'Error al obtener los datos.' });
   }
 });
+
+
 module.exports = router;
