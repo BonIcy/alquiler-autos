@@ -1,0 +1,395 @@
+{
+	"info": {
+		"_postman_id": "f139f87b-e4a7-4245-a145-639faf9814d8",
+		"name": "alquiler_autos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28464468"
+	},
+	"item": [
+		{
+			"name": "2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt6/6509bbcc1bd87873f81207a4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt6",
+						"6509bbcc1bd87873f81207a4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt7",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt8",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "9",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt9/6509bbcc1bd87873f81207a4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt9",
+						"6509bbcc1bd87873f81207a4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt10/567890123",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt10",
+						"567890123"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "11",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt11",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt11"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "12",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt12/2023-07-05",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt12",
+						"2023-07-05"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "13",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt13/6509ba6f1bd87873f812078d",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt13",
+						"6509ba6f1bd87873f812078d"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "14",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt14",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt14"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "15",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt15",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt15"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "16",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt16",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt16"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "17",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt17",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt17"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "18",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt18",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt18"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "19",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt19",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt19"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "21",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6921/autos/pnt21",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6921",
+					"path": [
+						"autos",
+						"pnt21"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
