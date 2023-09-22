@@ -5,9 +5,6 @@ const Reserva = require('../models/Reserva');
 const Empleado = require('../models/Empleados')
 const Sucursal = require('../models/Sucursales');
 const SucursalAutomovil = require('../models/SucursalAutomovil');
-const RegistroDevolucion = require('../models/RegistroDevolucion');
-const RegistroEntrega = require('../models/RegistroEntrega');
-
 
 
 const putAlquiler = async (req, res) => {

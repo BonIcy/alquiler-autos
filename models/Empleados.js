@@ -6,6 +6,7 @@ const empleadoSchema = new mongoose.Schema({
     direccion: String,
     telefono: String,
     cargo: String,
+    password: String, 
   });
   
   const Empleado = mongoose.model('empleados', empleadoSchema);
